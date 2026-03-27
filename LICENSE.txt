@@ -1,0 +1,9 @@
+Copyright  2026 Rights Frames Intelligence. All rights reserved.
+
+This software and related materials are proprietary to Rights Frames
+Intelligence and are licensed, not sold.
+
+No use, reproduction, modification, distribution, hosting, reverse engineering
+except where non-waivable law prohibits restriction, or derivative development
+is permitted except as expressly authorized in a separate written agreement with
+Rights Frames Intelligence.
